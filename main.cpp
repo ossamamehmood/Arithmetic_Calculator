@@ -179,7 +179,7 @@ int main()
 
         }
 
-        // ELSE Block - If enter unexpected Character
+        // ELSE Block - If enter unexpected Character - (Executed - Once each condition become false)
 
         else
 
@@ -196,5 +196,5 @@ int main()
             }
 
         return 0;
-
+    
         }
